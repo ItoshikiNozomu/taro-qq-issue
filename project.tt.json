@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "q-mini-dbg",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
